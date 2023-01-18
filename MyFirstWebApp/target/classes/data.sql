@@ -1,0 +1,3 @@
+insert into todo(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)
+values (100001,'ALEKIOS','100 pushups',CURRENT_DATE,false);
+

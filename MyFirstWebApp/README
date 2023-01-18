@@ -1,0 +1,13 @@
+This application manages todos (CRUD operations).
+
+It is using Spring MVC, Spring Security, JPA - Hibernate, Maven, JSTL.
+
+
+To use it, open your favorite IDEA (mine is IntelliJ).
+Wait for a while untill all dependencies are downloaded.
+
+To login at http://localhost:8080/login, you can go to /src/main/java/com/wiqrug/MyFirstWebApp/security/SpringSecurityConfiguration.java class and find all the users and passwords.
+
+h2 database is available at http://localhost:8080/h2-console
+
+
